@@ -116,8 +116,3 @@ Transfer ownership,Seller,buyer photo capture   |                Witness info,ph
 :---------------------------------:        |      :------------------------------:
 <img src="screenshots/Screenshot14.png" height="225">     |<img src="screenshots/Screenshot13.png" height="225">
 
-
-## Members
-1. [Prajyot Pawar] (https://www.linkedin.com/in/prajyot-pawar/)
-2. [Prashant Nane] (https://www.linkedin.com/in/prashant-nane-8581b2179/)
-3. Satish Kuchiwale
